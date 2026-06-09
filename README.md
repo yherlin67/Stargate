@@ -4,9 +4,6 @@ Le projet Stargate est une application de gestion s'inspirant de la fameuse sér
 Dans cette application, vous pouvez vous glisser dans la peau d'un explorateur spatial en planifiant vos missions à venir,
 en consultants les différentes espèces d'aliens auxquelles vous serez confronté et bien plus encore. 
 
-Cette application Winforms a été développée sur Visual Studio en C#, dans le cadre du framework DotNet.
-De plus, elle manipule une base de données pour stocker différentes informations, à l'aide des classes ADO.Net intégrée au framework.
-
 Voici les différents volets qui ont du être mis en place dans le projet :
 - Volet 1 : tableau de bord des missions (en cours, à venir et/ou passées).
 - Volet 2 : création d’une nouvelle mission puis affectation des membres et définition des
