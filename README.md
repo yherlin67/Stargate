@@ -6,6 +6,7 @@ Le projet Stargate est une application de gestion s'inspirant de la fameuse sér
 Dans cette application, vous pouvez vous glisser dans la peau d'un explorateur spatial en planifiant vos missions à venir,
 en consultants les différentes espèces d'aliens auxquelles vous serez confronté et bien plus encore. 
 
+
 ## Fonctionnalités
 Voici les différents volets qui ont été mis en place dans le projet :
 - Volet 1 : tableau de bord des missions (en cours, à venir et/ou passées).
@@ -19,6 +20,7 @@ captures, état du budget, dépenses effectuées…)
 - Volet 7 : Données statistiques.
 
 ## Captures d'écran
+(Tous les dessins dans l'application ont été réalisés par moi-même !)
 
 <img width="2879" height="1698" alt="image" src="https://github.com/user-attachments/assets/e2c5d20c-c847-4be3-9365-70138ea9dce8" />
 <img width="2879" height="1699" alt="image" src="https://github.com/user-attachments/assets/37fbd321-9bc7-4cda-8594-c673159d0978" />
