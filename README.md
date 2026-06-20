@@ -36,9 +36,9 @@ captures, état du budget, dépenses effectuées…)
 - [Visual Studio](https://visualstudio.microsoft.com/) avec le workload **.NET desktop development**
 
 ### Étapes
-1. Cloner le dépôt
+1. Cloner le dépôt :
 ```bash
-   git clone https://github.com/ton-pseudo/stargate.git
+   git clone https://github.com/yherlin67/Stargate.git
 ```
 2. Ouvrir le fichier `.sln` dans Visual Studio
 3. Lancer la solution avec **F5** ou le bouton **Démarrer**
