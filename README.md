@@ -1,5 +1,7 @@
 # Stargate
 
+Projet réalisé en trinôme, dans le cadre de ma première année de BUT informatique.
+
 ## Présentation
 Le projet Stargate est une application de gestion s'inspirant de la fameuse série éponyme.
 
